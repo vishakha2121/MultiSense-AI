@@ -238,23 +238,7 @@ temp/
 *.sln
 *.sw?
 
-# ============================================
-# Database Files
-# ============================================
 
-# SQLite
-*.db
-*.sqlite
-*.sqlite3
-*.db-journal
-*.sqlite-journal
-
-# PostgreSQL
-*.pgsql
-*.dump
-
-# MySQL
-*.sql.gz
 
 
 
