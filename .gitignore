@@ -495,12 +495,6 @@ build/
 *.min.js
 *.min.css
 
-# Configuration files with sensitive data
-config.local.yaml
-config.local.json
-.credentials/
-keys/
-certs/
 
 
 
