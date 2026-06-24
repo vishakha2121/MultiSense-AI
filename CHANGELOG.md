@@ -37,24 +37,7 @@ First official release of MultiSense-AI - A complete multimodal AI platform!
   - Multimodal understanding capabilities
   - Cross-modal content generation
 
-#### 📝 **Text Processing Module**
-- Text summarization with customizable length
-- Sentiment analysis (positive, negative, neutral)
-- Language translation (multi-language support)
-- Text generation with creative modes
-- Keyword extraction and topic modeling
-- Grammar and spell checking
-- Text-to-text generation
 
-#### 🖼️ **Image Processing Module**
-- Image description and captioning
-- Object detection and recognition
-- Image generation from text prompts
-- OCR (Optical Character Recognition) for text extraction
-- Image classification
-- Visual question answering
-- Image sentiment analysis
-- Color palette extraction
 
 
 
