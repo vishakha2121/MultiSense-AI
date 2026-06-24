@@ -274,21 +274,7 @@ First official release of MultiSense-AI - A complete multimodal AI platform!
 - Database schema design
 - Folder structure documentation
 
-#### 📚 **Documentation**
-- Project overview
-- Technology stack
-- Setup instructions
-- Basic API documentation
 
-#### 🔧 **Development Tools**
-- Python virtual environment
-- Node.js package management
-- Git version control
-- Development configuration
-
----
-
-## [0.0.1] - 2024-01-XX
 
 
 
