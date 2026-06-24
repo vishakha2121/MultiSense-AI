@@ -512,11 +512,6 @@ certs/
 *.apk
 *.ipa
 
-# Documentation build
-docs/_build/
-docs/api/
 
-# Redis
-dump.rdb
 
 
