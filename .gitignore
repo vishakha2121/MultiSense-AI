@@ -3,9 +3,7 @@
 # Complete ignore file for Python + React + AI Project
 # ============================================
 
-# ============================================
-# Python
-# ============================================
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
