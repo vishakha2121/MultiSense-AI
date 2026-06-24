@@ -76,25 +76,7 @@ First official release of MultiSense-AI - A complete multimodal AI platform!
 - Motion detection
 - Video classification
 
-#### 🔄 **Multimodal Features**
-- Cross-modal analysis (text + image + audio + video)
-- Combined understanding and reasoning
-- Interactive AI conversations
-- Context-aware processing
-- Multi-format input support
-- Unified processing pipeline
 
-### 🎨 **Frontend Features**
-
-#### 🏠 **User Interface**
-- Modern, responsive design
-- Beautiful glass-morphism UI
-- Smooth animations with Framer Motion
-- Dark/Light theme toggle
-- Mobile-first responsive layout
-- Accessibility (WCAG 2.1 compliant)
-- Keyboard navigation support
-- Screen reader support
 
 
  
