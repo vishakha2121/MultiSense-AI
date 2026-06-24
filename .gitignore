@@ -383,21 +383,7 @@ htmlcov/
 coverage.xml
 *.py,cover
 
-# React Testing
-coverage/
-test-report.xml
-jest-coverage/
 
-# ============================================
-# CI/CD
-# ============================================
-
-.circleci/
-.gitlab-ci.yml
-.travis.yml
-.woodpecker/
-.github/
-*.yml
 
 
 
