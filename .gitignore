@@ -292,24 +292,6 @@ static/
 !.env.example
 !.env.template
 
-# API keys
-*.key
-*.pem
-*.crt
-*.csr
-*.p12
-*.pfx
-secrets/
-secrets.json
-secrets.yaml
-credentials.json
-token.json
-*.secret
-*.private
-
-# ============================================
-# Docker
-# ============================================
 
 
 
