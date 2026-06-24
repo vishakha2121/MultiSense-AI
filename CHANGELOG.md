@@ -358,27 +358,7 @@ First official release of MultiSense-AI - A complete multimodal AI platform!
 
 | Feature | v0.1.0 | v0.2.0 | v1.0.0 | v1.1.0 | v2.0.0 |
 |---------|--------|--------|--------|--------|--------|
-| Text Processing | 🟡 | ✅ | ✅ | ✅ | ✅ |
-| Image Processing | 🟡 | ✅ | ✅ | ✅ | ✅ |
-| Audio Processing | ❌ | 🟡 | ✅ | ✅ | ✅ |
-| Video Processing | ❌ | 🟡 | ✅ | ✅ | ✅ |
-| Multimodal | ❌ | ❌ | ✅ | ✅ | ✅ |
-| User Auth | ❌ | ❌ | 🟡 | ✅ | ✅ |
-| Dark Theme | ❌ | ❌ | ✅ | ✅ | ✅ |
-| Mobile UI | ❌ | 🟡 | ✅ | ✅ | ✅ |
-| Docker | ❌ | 🟡 | ✅ | ✅ | ✅ |
-| Tests | ❌ | ❌ | 🟡 | ✅ | ✅ |
-| Docs | 🟡 | ✅ | ✅ | ✅ | ✅ |
-| Real-time | ❌ | ❌ | ❌ | 🟡 | ✅ |
 
-**Legend:**
-- ✅ Complete
-- 🟡 In Progress
-- ❌ Not Started
-
----
-
-## 🐛 **Known Issues & Bugs**
 
 
 
