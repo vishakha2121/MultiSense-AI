@@ -290,22 +290,6 @@ First official release of MultiSense-AI - A complete multimodal AI platform!
 
 ## [0.0.1] - 2024-01-XX
 
-### 🏁 **Project Initiation**
-
-#### 🚀 **Initial Commit**
-- Repository created on GitHub
-- Basic project files
-- Initial project planning
-- Architecture design
-- Technology selection
-- Resource planning
-
-#### 📋 **Planning**
-- Requirements gathering
-- Feature prioritization
-- Timeline estimation
-- Resource allocation
-- Risk assessment
 
 
 
