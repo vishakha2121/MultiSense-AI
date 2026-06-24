@@ -329,15 +329,7 @@ override.tf.json
 *_override.tf
 *_override.tf.json
 
-# ============================================
-# System Files
-# ============================================
 
-# Windows
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-$RECYCLE.BIN/
 
 
 
