@@ -399,25 +399,6 @@ jest-coverage/
 .github/
 *.yml
 
-# ============================================
-# Package Manager Lock Files
-# ============================================
-
-# Python
-poetry.lock
-Pipfile.lock
-requirements.txt
-requirements-dev.txt
-
-# Node.js
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
-
-# ============================================
-# Miscellaneous
-# ============================================
-
 
 
 
