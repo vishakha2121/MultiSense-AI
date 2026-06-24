@@ -508,9 +508,6 @@ certs/
 *.ilk
 *.exp
 
-# Android/IOS (if mobile)
-*.apk
-*.ipa
 
 
 
