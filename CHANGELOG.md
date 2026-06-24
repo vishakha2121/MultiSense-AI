@@ -442,13 +442,3 @@ We follow [Conventional Commits](https://www.conventionalcommits.org/):
 
 ---
 
-**Maintained with ❤️ by the MultiSense-AI Team**
-
----
-
-## 📅 **Last Updated**
-*January 2024*
-
----
-
-**🌟 Star this project if you find it useful!**
