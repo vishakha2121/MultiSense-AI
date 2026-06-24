@@ -96,18 +96,7 @@ First official release of MultiSense-AI - A complete multimodal AI platform!
 - Keyboard navigation support
 - Screen reader support
 
-#### 📊 **Dashboard**
-- Real-time processing statistics
-- Activity charts with Recharts
-- Recent processing history
-- Quick action buttons
-- User-friendly navigation
-- Personalized dashboard
 
-#### 📤 **File Upload**
-- Drag and drop functionality
-- Support for multiple file types:
-  - Images: .jpg, .jpeg, .png, .gif, .webp, .svg, .bmp
  
 
 
