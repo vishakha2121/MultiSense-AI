@@ -138,24 +138,6 @@ First official release of MultiSense-AI - A complete multimodal AI platform!
 - Middleware support (CORS, Auth, Error handling)
 - Rate limiting (configurable)
 
-#### 🗄️ **Database**
-- SQLite for development (PostgreSQL ready)
-- Alembic for migrations
-- User management tables
-- File management tables
-- Processing history tables
-- Multimodal results tables
-- Indexed for performance
-
-#### 🔐 **Security**
-- CORS configuration
-- API key authentication
-- Rate limiting
-- Input validation
-- File validation and sanitization
-- SQL injection prevention
-- XSS protection
-- CSRF protection
 
 
 
