@@ -440,22 +440,7 @@ pnpm-lock.yaml
 *.swp
 *.swo
 
-# ============================================
-# Custom for MultiSense-AI Project
-# ============================================
 
-# Backend specific
-backend/uploads/
-backend/static/
-backend/__pycache__/
-backend/*.pyc
-backend/*.pyo
-backend/*.pyd
-backend/.env
-backend/.flaskenv
-backend/instance/
-backend/migrations/versions/*.py
-!backend/migrations/versions/__init__.py
 
 
 
