@@ -502,11 +502,6 @@ config.local.json
 keys/
 certs/
 
-# Debug files
-*.pdb
-*.idb
-*.ilk
-*.exp
 
 
 
