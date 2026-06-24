@@ -380,22 +380,6 @@ First official release of MultiSense-AI - A complete multimodal AI platform!
 
 ## 🐛 **Known Issues & Bugs**
 
-### Current Version (v1.0.0)
-1. **Audio Processing**
-   - Large files (>50MB) may timeout
-   - Some codecs not supported
-
-2. **Video Processing**
-   - HD videos can be slow
-   - Memory usage high for 4K videos
-
-3. **UI Issues**
-   - Occasional glitch on Safari browser
-   - Mobile layout on very small screens
-
-4. **Database**
-   - No automatic cleanup for old records
-   - Migration issues with SQLite to PostgreSQL
 
 
 
