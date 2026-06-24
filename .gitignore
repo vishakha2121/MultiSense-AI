@@ -521,9 +521,3 @@ dump.rdb
 
 # ElasticSearch
 elasticsearch/
-
-# Backup files
-*.backup
-*.bak
-*.old
-*.orig
