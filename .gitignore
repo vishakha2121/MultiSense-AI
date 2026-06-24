@@ -483,11 +483,6 @@ docker/db_data/
 docker/redis_data/
 docker/.env
 
-# Temporary uploads
-*.tmp
-*.temp
-temp/
-tmp/
 
 
 
