@@ -519,5 +519,4 @@ docs/api/
 # Redis
 dump.rdb
 
-# ElasticSearch
-elasticsearch/
+
