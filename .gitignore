@@ -468,20 +468,6 @@ frontend/node_modules/
 frontend/coverage/
 frontend/*.log
 
-# Database migrations (except init files)
-database/migrations/versions/*.py
-!database/migrations/versions/__init__.py
-database/*.db
-database/*.sqlite3
-database/*.dump
-
-# Docker
-docker/*.log
-docker/*.pid
-docker/data/
-docker/db_data/
-docker/redis_data/
-docker/.env
 
 
 
