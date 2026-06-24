@@ -274,23 +274,7 @@ static/
 *.jpg
 *.jpeg
 *.png
-*.gif
-*.webp
-*.pdf
-*.docx
-*.txt
-*.temp
-*.tmp
 
-# ============================================
-# Secrets / Keys / Certificates
-# ============================================
-
-# Environment variables
-.env
-.env.*
-!.env.example
-!.env.template
 
 
 
