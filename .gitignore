@@ -311,23 +311,7 @@ token.json
 # Docker
 # ============================================
 
-docker/
-*.pid
-docker-compose.override.yml
-*.dockerignore
 
-# ============================================
-# Terraform
-# ============================================
-
-*.tfstate
-*.tfstate.*
-.terraform/
-.terraform.lock.hcl
-override.tf
-override.tf.json
-*_override.tf
-*_override.tf.json
 
 
 
