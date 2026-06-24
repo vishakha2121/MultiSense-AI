@@ -221,22 +221,6 @@ temp/
 # React / Create React App Specific
 # ============================================
 
-# Build output
-/build
-/build-*
-
-# IDE files
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
 
 
 
