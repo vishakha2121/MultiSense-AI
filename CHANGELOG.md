@@ -414,17 +414,5 @@ Special thanks to:
 - All open-source contributors
 - Our amazing users and testers
 
----
-
-## 📬 **Feedback & Contributions**
-
-We welcome feedback and contributions!
-- **Report Issues**: [GitHub Issues](https://github.com/vishakha2121/MultiSense-AI/issues)
-- **Feature Requests**: [Discussions](https://github.com/vishakha2121/MultiSense-AI/discussions)
-- **Pull Requests**: Welcome! Please see CONTRIBUTING.md
-
----
-
-## 📝 **Commit Convention**
 
 
