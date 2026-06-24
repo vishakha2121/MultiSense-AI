@@ -157,15 +157,6 @@ First official release of MultiSense-AI - A complete multimodal AI platform!
 - XSS protection
 - CSRF protection
 
-#### 📡 **API Endpoints**
-- `/api/text/*` - Text processing endpoints
-- `/api/image/*` - Image processing endpoints
-- `/api/audio/*` - Audio processing endpoints
-- `/api/video/*` - Video processing endpoints
-- `/api/multimodal/*` - Multimodal processing endpoints
-- `/api/health` - Health check endpoint
-- `/api/history` - Processing history endpoints
-- `/api/stats` - Statistics endpoints
 
 
 
