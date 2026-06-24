@@ -255,24 +255,7 @@ First official release of MultiSense-AI - A complete multimodal AI platform!
 - Better memory management
 - Concurrent file processing
 
----
 
-## [0.1.0] - 2024-01-XX
-
-### 🎯 **Development Sprint 1**
-
-#### ✨ **Added**
-- Project initialization
-- Basic project structure
-- Git repository setup
-- README.md creation
-- .gitignore file
-- License file (MIT)
-- Basic backend setup (FastAPI)
-- Basic frontend setup (React)
-- Gemini API integration foundation
-- Database schema design
-- Folder structure documentation
 
 
 
