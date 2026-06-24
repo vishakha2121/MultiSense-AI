@@ -56,25 +56,6 @@ First official release of MultiSense-AI - A complete multimodal AI platform!
 - Image sentiment analysis
 - Color palette extraction
 
-#### 🎵 **Audio Processing Module**
-- Speech-to-text transcription
-- Audio sentiment analysis
-- Speaker diarization
-- Language detection
-- Audio summarization
-- Background noise detection
-- Music genre classification
-- Audio-to-text generation
-
-#### 📹 **Video Processing Module**
-- Video description and summarization
-- Frame extraction and analysis
-- Scene detection and segmentation
-- Video sentiment analysis
-- Keyframe extraction
-- Video-to-text generation
-- Motion detection
-- Video classification
 
 
 
