@@ -489,11 +489,7 @@ docker/.env
 temp/
 tmp/
 
-# Production build
-dist/
-build/
-*.min.js
-*.min.css
+
 
 
 
