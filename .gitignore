@@ -339,21 +339,7 @@ ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 
-# macOS
-.DS_Store
-.AppleDouble
-.LSOverride
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
 
-# Linux
-*~
-.directory
-*.swp
-*.swo
 
 
 
