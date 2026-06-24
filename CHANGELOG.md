@@ -427,18 +427,4 @@ We welcome feedback and contributions!
 
 ## 📝 **Commit Convention**
 
-We follow [Conventional Commits](https://www.conventionalcommits.org/):
-
-- `✨ feat:` New feature
-- `🐛 fix:` Bug fix
-- `📚 docs:` Documentation
-- `🎨 style:` Code style/UI
-- `♻️ refactor:` Code refactoring
-- `⚡ perf:` Performance improvements
-- `✅ test:` Testing
-- `🔧 chore:` Maintenance
-- `🚀 deploy:` Deployment
-- `🔒 security:` Security fixes
-
----
 
