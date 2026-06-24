@@ -82,24 +82,7 @@ docs/_build/
 .pybuilder/
 target/
 
-# Jupyter Notebooks
-.ipynb_checkpoints
 
-# IPython
-profile_default/
-ipython_config.py
-
-# pyenv
-.python-version
-
-# pipenv
-Pipfile.lock
-
-# poetry
-poetry.lock
-
-# pdm
-.pdm.toml
 
 
 
