@@ -457,16 +457,6 @@ backend/instance/
 backend/migrations/versions/*.py
 !backend/migrations/versions/__init__.py
 
-# Frontend specific
-frontend/build/
-frontend/.env
-frontend/.env.local
-frontend/.env.development.local
-frontend/.env.test.local
-frontend/.env.production.local
-frontend/node_modules/
-frontend/coverage/
-frontend/*.log
 
 
 
