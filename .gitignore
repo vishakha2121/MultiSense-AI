@@ -418,27 +418,6 @@ pnpm-lock.yaml
 # Miscellaneous
 # ============================================
 
-# Jupyter Notebooks
-*.ipynb
-
-# PyCharm
-.idea/
-*.iml
-
-# VS Code
-.vscode/
-*.code-workspace
-
-# Sublime Text
-*.sublime-project
-*.sublime-workspace
-
-# Emacs
-*~
-
-# Vim
-*.swp
-*.swo
 
 
 
