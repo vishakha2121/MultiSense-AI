@@ -108,24 +108,7 @@ First official release of MultiSense-AI - A complete multimodal AI platform!
 - Drag and drop functionality
 - Support for multiple file types:
   - Images: .jpg, .jpeg, .png, .gif, .webp, .svg, .bmp
-  - Audio: .mp3, .wav, .m4a, .flac, .aac, .ogg
-  - Video: .mp4, .avi, .mov, .wmv, .flv, .mkv
-  - Text: .txt, .pdf, .docx, .doc, .rtf
-- Progress indicators
-- File preview
-- Multiple file upload
-- Upload cancellation
-- File validation (size, type, format)
-
-#### 🎯 **Processing Pages**
-- Text processing page with rich text editor
-- Image processing with preview and analysis
-- Audio processing with waveform visualization
-- Video processing with player and analysis
-- Multimodal processing with combined inputs
-- Real-time processing status
-- Result display with formatting
-- Export results functionality
+ 
 
 
 
