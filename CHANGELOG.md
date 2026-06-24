@@ -202,26 +202,6 @@ First official release of MultiSense-AI - A complete multimodal AI platform!
 
 ## [1.0.0-alpha] - 2024-01-XX
 
-### 🚀 **Alpha Release**
-
-#### 🌟 **First Working Prototype**
-- Basic Gemini API integration
-- Text processing (summarization, sentiment)
-- Image processing (description, detection)
-- Audio processing (transcription)
-- Video processing (description)
-- React frontend with basic UI
-- Database setup
-- API endpoints working
-
-#### 🐛 **Known Issues**
-- Audio processing might fail for large files (>50MB)
-- Video processing slower for HD videos
-- UI not fully responsive on small screens
-- Some edge cases in error handling
-
----
-
 
 
 
