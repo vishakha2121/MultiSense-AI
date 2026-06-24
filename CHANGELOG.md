@@ -397,22 +397,7 @@ First official release of MultiSense-AI - A complete multimodal AI platform!
    - No automatic cleanup for old records
    - Migration issues with SQLite to PostgreSQL
 
-### Workarounds
-- For large files: Use chunked upload
-- For HD videos: Use lower resolution
-- Browser issues: Use Chrome/Firefox
-- Database: Regularly clean up old records
 
----
-
-## 🙏 **Acknowledgments**
-
-Special thanks to:
-- Google for Gemini API
-- FastAPI community
-- React community
-- All open-source contributors
-- Our amazing users and testers
 
 
 
