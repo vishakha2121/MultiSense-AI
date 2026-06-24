@@ -127,16 +127,7 @@ First official release of MultiSense-AI - A complete multimodal AI platform!
 - Result display with formatting
 - Export results functionality
 
-### 🛠️ **Backend Features**
 
-#### 🏗️ **Architecture**
-- FastAPI for high-performance API
-- Async/await for concurrent processing
-- SQLAlchemy ORM for database operations
-- Modular service architecture
-- Dependency injection
-- Middleware support (CORS, Auth, Error handling)
-- Rate limiting (configurable)
 
 
 
